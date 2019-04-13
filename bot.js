@@ -125,4 +125,5 @@ if (message.content.startsWith(adminprefix + 'setava')) {
 });
 
 
+
 client.login(process.env.TOKEN);
